@@ -1,0 +1,43 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color:rgb(6, 135, 178) ;
+  }
+  
+  h1 {
+    margin-top: 20px;
+  }
+  
+  form {
+    width: 300px;
+    margin: 0 auto;
+    text-align: left;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(147, 83, 5);
+  }
+  
+  form label,
+  form input,
+  form button,
+  form checkbox {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
